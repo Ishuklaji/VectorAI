@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "info": "ish Shukla",
+    "description": "Masters from IU berlin, Experienced Software Engineer. Born and raised in Delhi. I currently live in Berlin. I used to work as a web developer in the past."
+  },
+  {
+    "id": 2,
+    "info": "Education",
+    "description": "Masters from IU Berlin"
+  },
+  {
+    "id": 3,
+    "info": "Profession",
+    "description": "Professional Web developer (Past), Experienced Software Engineer (Current)"
+  },
+  {
+    "id": 4,
+    "info": "YouTube Channel",
+    "description": "just for playing videos on YouTube"
+  },
+  {
+    "id": 5,
+    "info": "Instagram",
+    "description": "Just for social networking"
+  },
+  {
+    "id": 5,
+    "info": "Twitter",
+    "description": "Not much used for social"
+  },
+  {
+    "id": 6,
+    "info": "Personal Project",
+    "description": "Made video games"
+  }
+]
